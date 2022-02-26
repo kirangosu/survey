@@ -228,11 +228,12 @@ header .labelField {
    border: 1px solid #ddd;
    padding: 8px;
    color: #122B26;
-   align: left
+   text-align: left;
  }
  
  #survey tr:nth-child(even){background-color: #A6F9E9;}
  #survey tr:nth-child(odd){background-color: #C9F8EF;}
+ 
  
  #survey tr:hover {background-color: #62F8DA;}
  
